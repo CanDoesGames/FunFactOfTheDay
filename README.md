@@ -8,4 +8,4 @@ fun fact of the day (for windows)
 
 # For Developers:
 
-**If you want to make your own fun fact of the day software, the funfact txt can be found [here](https://raw.githubusercontent.com/CanDoesGames/funfact/main/fact.txt)
+**If you want to make your own fun fact of the day software, the funfact txt can be found [here](https://raw.githubusercontent.com/CanDoesGames/funfact/main/fact.txt)**
