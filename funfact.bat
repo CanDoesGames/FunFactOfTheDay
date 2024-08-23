@@ -1,5 +1,4 @@
 @echo off
-REM Set the GitHub URL for the .txt file
 set "github_url=https://raw.githubusercontent.com/CanDoesGames/funfact/main/fact.txt"
 
 
